@@ -31,8 +31,6 @@ Clone project into plugins directory of a Wordpress site: activate plugin. Now y
 
 * **Jessica Martin** [A Minor Studio](https://aminorstudio.com)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
