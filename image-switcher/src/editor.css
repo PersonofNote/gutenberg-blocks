@@ -1,0 +1,22 @@
+.wp-block-personofnote-image-switcher {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+}
+
+.wp-block-personofnote-image-switcher .image-visible {
+    height:100px;
+    width: 100px;
+    border-radius:100px;
+    margin: 0 1rem;
+}
+
+
+.wp-block-personofnote-image-switcher .image-hover {
+    height:100px;
+    width: 100px;
+    border-radius:100px;
+    margin: 0 1rem;
+}
+

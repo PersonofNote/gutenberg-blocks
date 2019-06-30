@@ -1,0 +1,30 @@
+
+.wp-block-personofnote-image-switcher {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+}
+
+.wp-block-personofnote-image-switcher .image-visible {
+    height:200px;
+    width: 200px;
+    border-radius:100px;
+    position: absolute;
+    display: block;
+    transition-duration: 0.5s;
+}
+
+
+.wp-block-personofnote-image-switcher .image-hover {
+    height:200px;
+    width: 200px;
+    border-radius:100px;
+    position: absolute;
+    display: block;
+    z-index: -2;
+    transition-duration: 0.5s;
+}
+
